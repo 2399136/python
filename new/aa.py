@@ -1,1 +1,1 @@
-aaaa
+print("hao ba!")
